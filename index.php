@@ -1,5 +1,5 @@
 <?php
-require_once("login_db.php");
+require_once("./login_db.php");
 
 if(isset($_POST))
 	{
